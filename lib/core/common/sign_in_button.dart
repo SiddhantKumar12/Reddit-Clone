@@ -13,7 +13,7 @@ class SignInButton extends StatelessWidget {
         onPressed: () {},
         icon: Image.asset(
           Constants.googlePath,
-          height: 20,
+          height: 30,
         ),
         style: ElevatedButton.styleFrom(
           backgroundColor: Pallete.greyColor,
